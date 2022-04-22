@@ -1,6 +1,6 @@
 {
   "name": "mkdir-file-tree-md",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "file tree as .md file",
   "main": "index.js",
   "scripts": {
