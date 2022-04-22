@@ -1,0 +1,38 @@
+{
+  "name": "mkdir-file-tree-md",
+  "version": "1.0.0",
+  "description": "file tree as .md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js",
+    "release": "np"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasLiu/mkdir-file-tree-md.git"
+  },
+  "keywords": [
+    "file",
+    "tree",
+    "md"
+  ],
+  "author": "Thomas Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasLiu/mkdir-file-tree-md/issues"
+  },
+  "homepage": "https://github.com/ThomasLiu/mkdir-file-tree-md#readme",
+  "engines": {
+    "node": "^12 || >=14",
+    "pnpm": "^6 || >=5"
+  },
+  "resolutions": {
+    "bin-wrapper": "npm:bin-wrapper-china"
+  },
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  },
+  "devDependencies": {
+    "np": "^7.6.1"
+  }
+}
