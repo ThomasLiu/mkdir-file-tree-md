@@ -5,7 +5,7 @@ file tree as .md file
 ## Install
 
 ``` bash
-pnmp add mkdir-file-tree-md
+pnpm add mkdir-file-tree-md
 ```
 
 ## Use
